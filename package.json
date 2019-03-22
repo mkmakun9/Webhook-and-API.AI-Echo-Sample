@@ -1,7 +1,7 @@
 {
-  "name": "webhook-echo-sample",
+  "name": "webhook-evu-sample",
   "version": "1.0.0",
-  "description": "Webhook echo sample",
+  "description": "Webhook evu sample",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
